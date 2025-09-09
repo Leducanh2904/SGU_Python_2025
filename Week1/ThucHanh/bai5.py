@@ -1,0 +1,13 @@
+# 5. Gõ help() trong python Shell và tìm hiểu theo hướng dẫn.
+help()
+# Enter the name of any module, keyword, or topic to get help on writing
+# Python programs and using Python modules.  To get a list of available
+# modules, keywords, symbols, or topics, enter "modules", "keywords",
+# "symbols", or "topics".
+
+# Each module also comes with a one-line summary of what it does; to list
+# the modules whose name or summary contain a given string such as "spam",
+# enter "modules spam".
+
+# To quit this help utility and return to the interpreter,
+# enter "q", "quit" or "exit".
